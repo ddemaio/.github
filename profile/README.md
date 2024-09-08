@@ -1,6 +1,6 @@
 # The makers' choice for sysadmins, developers and desktop
 
-![Hey!](https://www.opensuse.org/build/images/opensuse-conference.jpg)
+![Hey!](https://www.opensuse.org/build/images/oscphoto.png)
 
 The openSUSE project is a worldwide effort that promotes the use of Linux everywhere. We create one of the world's [best Linux distributions](https://get.opensuse.org/), as well as a variety of tools, such as [OBS](https://openbuildservice.org/), [OpenQA](http://open.qa/), [Kiwi](http://opensuse.github.io/kiwi/), [YaST](https://yast.opensuse.org/), [OSEM](https://osem.io/). Working together in an open, transparent and friendly manner as part of the worldwide Free and Open Source Software community.
 
